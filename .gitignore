@@ -27,6 +27,9 @@
 hs_err_pid*
 replay_pid*
 
+# 데이터베이스 접속 정보 (sensitive info)
+src/main/resources/db.properties
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
